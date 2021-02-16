@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rajesh-moturu
+- 👀 I’m interested in C++ based libraries and gui applications. 
+- 🌱 I’m currently learning Qt5 GUI application development
+- 💞️ I’m looking to collaborate on C++ related ML/Bioinformatics library development
+- 📫 You can reach me on rajeshmoturu2@gmail.com
